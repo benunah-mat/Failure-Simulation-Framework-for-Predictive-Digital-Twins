@@ -30,7 +30,7 @@ The model uses real vibration sensor data from the NASA Prognostics Data Reposit
 
 - Rotating equipment reliability
 - Predictive maintenance
-- Oil & gas rotating machinery
+- Oil & Gas rotating machinery
 - Industrial asset integrity monitoring
 
 ## Author
