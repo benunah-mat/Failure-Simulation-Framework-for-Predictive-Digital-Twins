@@ -114,9 +114,9 @@ University of Cincinnati
 
 # Repository Structure
 
-/Phase1_DHDE_Model  
-/Phase2_Adaptive_Exponential_Model  
-/Phase3_Statistical_Instability_Detection (in development)  
+Phase1_DHDE_Model  
+Phase2_Adaptive_Exponential_Model  
+Phase3_Statistical_Instability_Detection (in development)  
 
 ---
 
