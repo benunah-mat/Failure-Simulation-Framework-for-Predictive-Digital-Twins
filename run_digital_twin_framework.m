@@ -13,7 +13,7 @@ num_machines = 4;
 t = 1:12000;
 dt = 1;
 
-machines = digital_twin_simulator(num_machines,t,dt);
+machines = digital_twin_simulatorx(num_machines,t,dt);
 
 fleet_failure_ranking(machines)
 
