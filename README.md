@@ -86,7 +86,7 @@ Failure-Simulation-Framework-for-Predictive-Digital-Twins
 
 run_digital_twin_framework.m
 
-digital_twin_simulator.m
+digital_twin_simulatorx.m
 damage_evolution_model.m
 vibration_sensor_model.m
 
