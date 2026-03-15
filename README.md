@@ -4,9 +4,9 @@
 
 The **Failure Simulation Framework for Predictive Digital Twins** is a physics-based predictive maintenance platform designed to simulate equipment degradation, monitor asset health, detect faults, and predict machine failures.
 
-The framework integrates digital twin simulation with predictive maintenance analytics to support industrial asset reliability and maintenance decision-making.
+The framework integrates **digital twin simulation** with **predictive maintenance analytics** to support industrial asset reliability and maintenance decision-making.
 
-It models machine degradation, generates synthetic vibration signals, detects anomalies, and estimates remaining useful life (RUL).
+The system models machine degradation, generates synthetic vibration signals, detects anomalies, and estimates remaining useful life (RUL).
 
 ---
 
@@ -45,7 +45,7 @@ Fleet Failure Risk Ranking
 
 ## Applications
 
-This framework can support predictive maintenance and reliability analysis in industries operating mechanical systems such as:
+This framework supports predictive maintenance and reliability analysis in industries operating mechanical systems such as:
 
 * Oil & Gas
 * Energy and Power Generation
@@ -84,27 +84,19 @@ Maintenance teams can prioritize servicing before failure occurs.
 ```
 Failure-Simulation-Framework-for-Predictive-Digital-Twins
 
-core_models/
-    damage_evolution_model.m
-    vibration_sensor_model.m
+run_digital_twin_framework.m
 
-monitoring_engine/
-    rms_health_indicator.m
-    cusum_fault_detection.m
-    rul_prediction.m
+digital_twin_simulator.m
+damage_evolution_model.m
+vibration_sensor_model.m
 
-digital_twin/
-    digital_twin_simulatorx.m
-    multi_asset_simulation.m
+rms_health_indicator.m
+cusum_fault_detection.m
+rul_prediction.m
 
-analytics/
-    fleet_failure_ranking.m
+fleet_failure_ranking.m
 
-dashboards/
-    digital_twin_dashboard.m
-
-main/
-    run_digital_twin_framework.m
+README.md
 ```
 
 ---
@@ -120,5 +112,6 @@ main/
 ---
 
 ## Author
-Benjamin Unah
+**Benjamin Unah**
+
 
