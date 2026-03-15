@@ -111,16 +111,13 @@ run_digital_twin_framework.m
 
 ## Future Work
 
-• Integration with real industrial sensor data
-• Cloud-based digital twin platform
-• Plant-level digital twin simulation
-• Parameter sensitivity analysis
-• Machine learning assisted predictions
+Integration with real industrial sensor data
+Cloud-based digital twin platform
+Plant-level digital twin simulation
+Parameter sensitivity analysis
+Machine learning assisted predictions
 
 ---
 
 ## Author
 Benjamin Unah
-
-
-Research interests include reliability engineering, digital twins, predictive maintenance, and industrial system safety.
